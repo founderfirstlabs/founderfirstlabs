@@ -1,0 +1,1278 @@
+@media screen and (max-width: 1300px) {
+  .s4_img {
+    width: 45vw;
+  }
+  .s4_img img:nth-child(4) {
+    min-width: 8.8vw !important;
+    left: 25vw !important;
+  }
+  .s4_img img:nth-child(3) {
+    left: 12vw !important;
+  }
+  .s4_img img:nth-child(5) {
+    top: 28vw !important;
+    left: 21vw !important;
+  }
+  .s4_img img:nth-child(6) {
+    top: 9vw !important;
+    left: 19vw !important;
+  }
+  .s4_img img:nth-child(7) {
+    right: 4vw !important;
+    top: 24vw !important;
+  }
+  .s4_img img:nth-child(11) {
+    top: 2vw !important;
+    left: 12vw !important;
+    z-index: -1 !important;
+    transform: rotate(-5deg);
+  }
+  .s4_img img:nth-child(12) {
+    left: 23vw !important;
+  }
+  .s4_img img:nth-child(8) {
+    top: 19vw !important;
+    left: 14vw !important;
+  }
+  .s4_img img:nth-child(10) {
+    top: 8vw !important;
+    left: 3vw !important;
+  }
+}
+@media screen and (max-width: 1200px) {
+  #about_page .second .content_1 {
+    max-width: 75vw;
+  }
+  #about_page .second .content_1 .txt_area {
+    max-width: 58%;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .s4_img img {
+    max-width: 10vw;
+  }
+  #contact_form .formRow input {
+    max-height: 50px;
+  }
+  #contact_form .descr_area {
+    max-width: 35vw;
+  }
+  #contact_form .formRow button,
+  .popupContent button {
+    width: 100%;
+    max-width: 230px;
+    font-size: 24px;
+  }
+  #contact_form label {
+    font-size: 16px;
+    margin-bottom: 3px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #sec_3 .container > div.s3_text .bg_elements #lottie:last-child {
+    right: -5vw;
+  }
+  .desctop_imgs {
+    display: none;
+  }
+  .s4_mobileImgs {
+    display: block;
+    max-width: 55%;
+  }
+  .sp_block .sp_item img {
+    transform: scale(1);
+  }
+  .second .vac_area.s4_mobileImgs,
+  #careers_page #sec_1 .photosArea {
+    max-width: 100%;
+    width: 100%;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_data,
+  #careers_page .second .vac_area.s4_mobileImgs .vac_dataItem {
+    position: unset;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_data {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_dataItem:first-of-type,
+  #careers_page .second .vac_area.s4_mobileImgs .vac_dataItem:nth-of-type(2) {
+    width: 50%;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs p {
+    width: 100%;
+    margin: 40px 0 60px;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_dataItem {
+    width: 33%;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_dataItem svg {
+    height: 80px;
+  }
+  .second .vac_area a {
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+  #careers_page #sec_1 {
+    padding: 0;
+  }
+  .main_menuDiv nav li {
+    margin-bottom: 40px;
+  }
+  .main_menuDiv nav li a {
+    font-size: 50px;
+  }
+  .main_menuDiv .mainSocial img {
+    height: 32px;
+  }
+  .main_menuDiv .mainSocial {
+    width: 232px;
+    bottom: 40px;
+  }
+}
+@media screen and (max-width: 960px) {
+  .container {
+    max-width: 800px;
+  }
+  #sec_1 .bg_area .bg_items img {
+    bottom: -80%;
+  }
+  .txt_hb {
+    font-size: 50px;
+  }
+  .main_title,
+  #about_page #section_wlf p.small_title {
+    font-size: 90px;
+  }
+  .defult_txt {
+    font-size: 16px;
+  }
+  .s12_title {
+    max-width: 250px;
+  }
+  .s2_web_title {
+    max-width: 280px;
+  }
+  #sec_2 .s2_el1 {
+    max-width: 660px;
+  }
+  #sec_2 {
+    padding: 50px 0 100px;
+  }
+  #sec_2 .s2_el1 {
+    margin-bottom: 80px;
+  }
+  #sec_2 .s2_el2 svg {
+    max-width: 280px;
+    margin-bottom: 30px;
+  }
+  #sec_2 .s2_el2 {
+    max-width: 400px;
+    margin-bottom: 60px;
+  }
+  #sec_3 .container > div.s3_text .bg_elements #lottie:last-child {
+    right: -70px;
+  }
+  #sec_3 .container > div.s3_text .bg_elements img {
+    max-width: 197px;
+  }
+  #sec_3 {
+    padding: 90px 0;
+  }
+  .s3_title,
+  .s3_text {
+    max-width: 295px;
+  }
+  #sec_4 .text p.main_title {
+    font-size: 80px;
+    margin-bottom: 30px;
+  }
+  .desctop_imgs,
+  #sec_6 .s6_title .bg_element {
+    display: none;
+  }
+  .s4_mobileImgs {
+    display: block;
+    max-width: 55%;
+  }
+  #sec_6 .s6_title,
+  #sec_6 .s6_txt {
+    max-width: 290px;
+  }
+  #sec_6 .s6_txt .bg_element {
+    position: relative;
+    top: unset;
+    left: unset;
+    right: unset;
+    margin-bottom: 40px;
+  }
+  #sec_5,
+  #sec_6 {
+    padding-bottom: 90px;
+  }
+  #sec_6 .container {
+    max-width: 660px;
+  }
+  .btnToPage {
+    font-size: 18px;
+  }
+  .btnToPage:before {
+    width: 44px;
+    height: 44px;
+    left: -22px;
+    right: 22px;
+  }
+  .content3 {
+    min-height: unset;
+  }
+  #sec_7 .main_title {
+    margin-bottom: 45px;
+  }
+  #sec_7 a {
+    width: auto;
+    height: 95px;
+  }
+  #sec_7 a:before {
+    transform: rotate(1deg) translateX(5px);
+  }
+  #sec_7 a:after {
+    transform: rotate(-1deg) translateX(-5px);
+  }
+  #sec_4 .container {
+    align-items: center;
+  }
+  #about_page .second .content_1 .img_area {
+    max-width: 100%;
+    margin-bottom: 40px;
+  }
+  #about_page .second .content_1 .txt_area {
+    max-width: 100%;
+  }
+  #about_page .second .content_1 {
+    flex-direction: column;
+  }
+  #about_page p.defult_txt {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 820px) {
+  .container,
+  #development_page #sec_6 .container,
+  #development_page #sec_6.section3 .container,
+  #development_page #sec_3.section4 .container {
+    max-width: 90%;
+  }
+  #sec_1 {
+    align-items: center;
+    display: flex;
+  }
+  #sec_1 .bg_area .bg_items img {
+    bottom: -90px;
+    width: 90px;
+    height: 90px;
+  }
+  .txt_hb {
+    max-width: 100%;
+  }
+  .scrDwn p {
+    font-size: 18px;
+  }
+  .scrDwn p svg {
+    width: 40px;
+    height: 40px;
+  }
+  .scrDwn {
+    padding-bottom: 50px;
+  }
+  .s2_web_txt,
+  #sec_2 .s2_el3 .s2_web_txt {
+    max-width: 350px;
+  }
+  #sec_2 .s2_el3,
+  #sec_3 .container {
+    max-width: 650px;
+  }
+  #sec_3 .container > div.s3_text .bg_elements img {
+    bottom: -70px;
+  }
+  #sec_3 .container > div.s3_text .bg_elements #lottie:last-child {
+    width: 94px;
+    right: -40px;
+    bottom: -75px;
+  }
+  #sec_4 .text {
+    max-width: 50%;
+  }
+  .s4_mobileImgs {
+    max-width: 45%;
+  }
+  #sec_2 .s2_el1 {
+    align-items: center;
+  }
+  footer img {
+    height: 40px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #sec_12 .container,
+  #sec_2 .s2_el1,
+  #sec_2 .s2_el3,
+  #sec_3 .container,
+  #sec_4 .container,
+  #sec_6 .container,
+  #contact_form .container,
+  #contact_form .formRow,
+  #development_page #sec_3.section4 .s3_title,
+  #nft_page #sec_1 .container,
+  #character .container,
+  #nftLending .container {
+    flex-direction: column;
+  }
+  .s12_title,
+  .s2_web_title,
+  #development_page #sec_6 .s6_title,
+  #development_page #sec_6 .s6_txt p,
+  #development_page #sec_6 .s6_txt,
+  #development_page #sec_6.section3 .s6_title,
+  #development_page #sec_6.section3 .s6_txt,
+  #development_page #sec_3.section4 .s3_title,
+  #development_page #sec_3.section4 .s3_title,
+  #development_page #sec_6.section5 .s6_title,
+  #development_page #sec_6.section5 .s6_txt,
+  #development_page #sec_3.section4 .s3_text,
+  #character .container,
+  #nftLending .container {
+    max-width: 100%;
+  }
+  #development_page #sec_3.section4 .s3_title {
+    display: flex;
+  }
+  .s12_txt,
+  #character .nft_char_title,
+  #character .nft_char_text {
+    max-width: 360px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  #sec_12 {
+    padding: 50px 0;
+  }
+  .s2_web_title,
+  #sec_2 .s2_el2 .small_title,
+  .s2_web_title p,
+  #sec_2 .s2_el3 p.main_title,
+  #development_page #sec_3.section4 .s3_title p.main_title {
+    order: 1;
+  }
+  .s2_web_txt,
+  #sec_2 .s2_el2 .img,
+  #sec_2 .s2_el3 .img,
+  #development_page #sec_3.section4 .s3_title img {
+    order: 2;
+  }
+  .s2_web_title,
+  #sec_2 .s2_el3 p.main_title {
+    margin-bottom: 40px;
+  }
+  .s2_web_txt {
+    text-align: center;
+  }
+  .main_title,
+  #sec_4 .text p.main_title,
+  #design_page #sec_1 p.main_title,
+  #development_page #sec_6 .s6_title p,
+  #development_page #sec_3.section4 p.main_title,
+  #development_page #sec_6.section5 .s6_title p,
+  #about_page #section_wlf p.small_title {
+    font-size: 60px;
+  }
+  #sec_2 .s2_el2 {
+    max-width: 500px;
+  }
+  #sec_2 .s2_el2 p,
+  #sec_2 .s2_el2 a {
+    order: 3;
+    max-width: 350px;
+  }
+  #sec_2 .s2_el2 .small_title {
+    max-width: 100%;
+    margin-bottom: 40px;
+    font-size: 60px;
+  }
+  #sec_2 .s2_el3 .s2_web_title .img,
+  #sec_6 .s6_txt .bg_element .img,
+  #development_page #sec_3.section4 .s3_title img,
+  #sec_2 .s2_el1 .img,
+  #development_page #sec_6.section5 .s6_txt img,
+  #design_page #sec_6.section5 .s6_txt svg,
+  #development_page #sec_6.section5 .s6_txt svg {
+    max-width: 280px;
+    margin-bottom: 0;
+  }
+  #development_page #sec_6.section5 .s6_txt svg {
+    margin-bottom: 15px;
+  }
+  #sec_2 .s2_el1 .img,
+  #development_page #sec_6.section5 .s6_txt img {
+    margin-bottom: 40px;
+  }
+  #sec_3 .container > div.s3_title {
+    max-width: 100%;
+    margin-bottom: 50px;
+  }
+  #sec_3 .container > div.s3_title .bg_elements img {
+    bottom: -30px;
+    max-width: 300px;
+    left: calc(50% - 150px);
+  }
+  #sec_3 .container > div.s3_text,
+  #sec_6 .s6_txt {
+    text-align: center;
+  }
+  #sec_4 .text {
+    max-width: 350px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  #sec_6 .s6_title {
+    max-width: 300px;
+    margin-bottom: 40px;
+  }
+  #sec_7 .container {
+    max-width: 600px;
+  }
+  #sec_7 .container > div,
+  #about_page #section_wlf .image_columns {
+    width: 100%;
+  }
+  #sec_7 .bg_element img {
+    width: 75px;
+    top: -70px;
+    left: 53%;
+  }
+  footer img {
+    height: 35px;
+  }
+  .big_defult_txt,
+  #development_page #sec_6 .s6_txt p,
+  #development_page #sec_3.section4 .s3_title p.defult_txt {
+    font-size: 18px;
+  }
+  #sec_2 .s2_el1 .s2_web_txt,
+  #sec_6 .containe,
+  #scense .container,
+  #sec_6 .container,
+  #about_page #section_wlf .image_columns {
+    max-width: 90%;
+  }
+  #about_page #sec_1 p {
+    font-size: 120px;
+  }
+  #about_page #sec_1 img {
+    transform: scale(1.5);
+  }
+  #about_page .content_1 p.small_title {
+    font-size: 80px;
+  }
+  .sledeItem {
+    width: 520vw;
+  }
+  #ourTeam .teamItem {
+    max-width: 40vw;
+    width: 100%;
+  }
+  .teamRow {
+    min-height: 40vw;
+  }
+  p.teamName {
+    font-size: 22px;
+  }
+  p.teamDescr {
+    font-size: 16px;
+  }
+  .teamInvite .teamItem {
+    margin: 80px auto;
+  }
+  #scense {
+    position: relative;
+    top: unset;
+    transform: unset;
+  }
+  #scense {
+    margin-bottom: 50px;
+  }
+  #slider img {
+    transform: unset !important;
+  }
+  #slider {
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  #contact_form {
+    height: unset;
+  }
+  #contact_form .descr_area {
+    max-width: 100%;
+    padding: 120px 0 90px;
+  }
+  #contact_form p.small_title {
+    font-size: 80px;
+    max-width: 100%;
+    text-align: left;
+    margin-bottom: 30px;
+  }
+  #contact_form img {
+    max-width: 250px;
+  }
+  #contact_page footer {
+    position: unset;
+    padding-top: 0;
+  }
+  #contact_form .formArea,
+  #contact_form .formRow > div {
+    max-width: 100%;
+  }
+  #contact_form .formRow,
+  #contact_form .formRow > div {
+    margin-bottom: 40px;
+  }
+  #contact_form .formRow > div:last-child {
+    margin-bottom: 0;
+  }
+  .popupContent {
+    max-width: 90%;
+  }
+  .popupContent {
+    max-width: 90%;
+    flex-direction: column;
+    height: auto;
+  }
+  .pp_txt,
+  #careers_page #sec_1 .container,
+  #design_page #sec_6.section2 .s6_title,
+  #design_page #sec_6.section4 .s6_title,
+  #design_page #sec_6.section5 .s6_title,
+  #design_page #sec_6.section2 .s6_txt,
+  #design_page #sec_6.section4 .container .s6_txt,
+  #design_page #sec_6.section5 .container .s6_txt {
+    max-width: 430px;
+    width: 100%;
+  }
+  .pp_img {
+    max-width: 100%;
+    justify-content: flex-end;
+    margin-top: -50px;
+  }
+  .teamInvite a:before {
+    font-size: 22px;
+  }
+  .second .vac_area a:before {
+    width: 18px;
+    height: 18px;
+    font-size: 11px;
+    line-height: 18px;
+  }
+  #careers_page #sec_1 {
+    padding: 160px 0;
+    min-height: auto;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_data {
+    flex-direction: column;
+    align-items: center;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs .vac_dataItem {
+    width: 100% !important;
+    margin-bottom: 25px;
+  }
+  .second .vac_area a[data-count="0"] {
+    transform: rotate(-11.66deg);
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+  body.wt .sp_item p {
+    font-size: 15px;
+    max-width: 100%;
+  }
+  #careers_page #sec_1 p.txt_hb {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: -0.02em;
+    color: #525375;
+    margin-bottom: 30px;
+  }
+  #careers_page #sec_1 p.defult_txt {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 140%;
+    color: #525375;
+  }
+  #careers_page .bg_items {
+    display: none;
+  }
+  .second .vac_area {
+    margin: 0 0 80px;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs p,
+  .sweet_p p.txt_hb {
+    font-size: 80px;
+    line-height: 80%;
+  }
+  body.menuActive .navArea .nav_btn .nav_btn--hamburg:before {
+    top: -150vh;
+    left: -150vh;
+    bottom: -150vh;
+    right: -150vh;
+  }
+  #design_page #sec_1 .bg_items img:first-child {
+    width: 92px;
+    right: 60px;
+    top: -110px;
+  }
+  #design_page #sec_1 .bg_items img:last-child {
+    width: 66px;
+    right: -20px;
+    bottom: -110px;
+  }
+  #design_page #sec_6.section4 .container .s6_title {
+    order: 1;
+  }
+  #design_page #sec_6.section4 .container .s6_txt {
+    order: 2;
+  }
+  #design_page #sec_6.section4 .container .imagesArea {
+    order: 3;
+    margin: 40px 0 0;
+  }
+  #illustrations .teamItem,
+  #illustrations .teamRow {
+    min-height: 170px;
+    max-height: 170px;
+  }
+  #illustrations .slideItem {
+    width: 1667px;
+  }
+  #sec_6.section2 {
+    padding-top: 90px;
+  }
+  #illustrations {
+    padding-top: 0;
+  }
+  .teamRow {
+    min-height: 190px;
+  }
+  #design_page a.behance_link {
+    margin: 0;
+    font-size: 16px;
+    margin-bottom: 90px;
+  }
+  #design_page a.behance_link {
+    margin: 0 0 90px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #design_page a.behance_link span {
+    margin-left: 8px;
+  }
+  #design_page a.behance_link svg {
+    position: unset;
+    margin-left: 10px;
+  }
+  #sliderDesign .teamRow {
+    margin-top: 0;
+  }
+  #design_page #sec_6 .bg_items img {
+    width: 100px;
+    top: -100px;
+    left: 20px;
+  }
+  #design_page #sec_6.section2 .s6_txt p,
+  #design_page #sec_6.section4 .container .s6_txt p,
+  #design_page #sec_6.section5 .container .s6_txt p {
+    font-size: 18px;
+  }
+  #design_page #sec_6 .bg_items.av_sec img {
+    width: 55px;
+    right: -55px;
+    left: unset;
+  }
+  #illustrations .reservedSlider .slideItem {
+    width: 1259px;
+  }
+  #sliderDesign .slideItem img {
+    height: 230px;
+  }
+  #sliderDesign .slideItem {
+    width: 1811px;
+  }
+  @keyframes slider2 {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-1667px);
+    }
+  }
+  @keyframes slider3 {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(1259px);
+    }
+  }
+  @keyframes slider4 {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-1811px);
+    }
+  }
+  #design_page #sec_6.section2 .s6_txt img,
+  #design_page #sec_6.section4 .s6_txt img,
+  #design_page #sec_6.section5 .s6_txt img,
+  #development_page #sec_6 .s6_title img,
+  #development_page #sec_6.section3 .s6_txt > img,
+  #development_page #sec_6.section3 .s6_txt > svg {
+    max-width: 250px;
+    width: 100%;
+  }
+  #development_page #sec_6 .s6_title img,
+  #development_page #sec_6.section3 .s6_txt > img {
+    margin: 30px auto 0;
+    display: block;
+  }
+  #development_page #sec_6.section3 .s6_txt > img,
+  #development_page #sec_3.section4 .s3_title img {
+    margin-bottom: 40px;
+  }
+  #design_page #sec_6.section4 .container .imagesArea {
+    width: 100%;
+  }
+  #design_page #sec_6 .bg_items.av_sec img {
+    right: 0;
+    top: -85px;
+    width: 40px;
+  }
+  #design_page #sec_6.section5 .bg_items img {
+    max-width: 80px;
+    right: 0;
+    left: unset;
+    bottom: 0;
+  }
+  #development_page .topSection .bg_items img:first-child {
+    max-width: 100px;
+    width: 100%;
+    top: -140px;
+    right: 40px;
+  }
+  #development_page .topSection .bg_items img:nth-child(2) {
+    width: 60px;
+    left: -100px;
+    bottom: -115px;
+  }
+  #development_page .topSection .bg_items img:nth-child(3) {
+    width: 115px;
+    right: -115px;
+    bottom: -140px;
+  }
+  #development_page .topSection .bg_items svg {
+    width: 150px;
+    bottom: -220px;
+  }
+  #development_page #sec_1.topSection {
+    padding: 255px 0 400px;
+    height: auto;
+    min-height: auto;
+  }
+  #development_page #sec_1.topSection .container {
+    height: auto;
+  }
+  #development_page #sec_1 p.main_title {
+    font-size: 44px;
+  }
+  #development_page #sec_6 .bg_items img,
+  #development_page #sec_6.section3 .s6_txt .bg_item img {
+    display: none;
+  }
+  #development_page #sec_6 .s6_txt img {
+    max-width: 500px;
+    margin-top: 40px;
+  }
+  #development_page #sec_3.section4 .bg_items img {
+    max-height: 80px;
+    margin-top: -30px;
+  }
+  #development_page #sec_3.section4 .s3_title p.defult_txt {
+    order: 3;
+  }
+  #design_page #sec_6 .s6_title {
+    background-image: unset;
+  }
+  header .logoArea img {
+    max-width: 90px;
+    width: 90px;
+  }
+  #nft_page .nft_top_images {
+    order: 1;
+    position: relative;
+    z-index: 111;
+    max-width: 300px;
+    width: 90%;
+    margin-left: 0;
+  }
+  .nft_top_title {
+    order: 2;
+  }
+  .nft_title span {
+    font-size: 160px;
+  }
+  .nft_title {
+    font-size: 36px;
+  }
+  #nft_page .contactBtn,
+  #nft_page .lpTitle .contactBtn {
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+    margin: 30px auto 0;
+  }
+  #character {
+    background-image: unset;
+  }
+  #character .nft_char_title {
+    margin-right: 0;
+  }
+  #nftExample {
+    margin-bottom: 40px;
+  }
+  #nftExample .midleColumn {
+    max-width: 50%;
+    margin: 0 5%;
+  }
+  #nftExample .leftColumn img,
+  #nftExample .rightColumn img {
+    max-width: 60%;
+  }
+  .lpImage,
+  .lpTitle {
+    max-width: 300px;
+  }
+  .lpTitle {
+    margin-top: 30px;
+  }
+  #nftVideo .bg_items img {
+    max-width: 10vw;
+  }
+  #nftVideo iframe {
+    max-width: 80%;
+    max-height: 280px;
+  }
+  .nftTeam_area:before {
+    position: unset;
+    transform: unset;
+    margin-bottom: 40px;
+    font-size: 60px;
+  }
+  .nftTeam_area {
+    max-width: 100%;
+  }
+  .nftTeam_area .teamItem {
+    max-width: 45%;
+  }
+  #nftTeam .bg_items {
+    display: none;
+  }
+  #slider > button {
+    position: relative;
+    width: 50vw;
+    height: 50px;
+    margin: 30px auto 0;
+    bottom: unset;
+    right: unset;
+    font-size: 18px;
+  }
+  #design_page #sec_6.section5 .s6_txt svg {
+    width: 100%;
+  }
+  #about_page #section_wlf .image_columns .col_item > svg {
+    width: 120px;
+    margin-right: 20px;
+  }
+  #about_page #section_wlf p.col_loc {
+    font-size: 36px;
+    margin-bottom: 5px;
+  }
+  #about_page #section_wlf p.col_city {
+    font-size: 18px;
+    display: flex;
+    align-items: flex-start;
+  }
+  #about_page #section_wlf p.col_city svg {
+    width: 13px;
+    margin-right: 5px;
+  }
+  #about_page #section_wlf .image_columns {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #about_page #section_wlf .image_columns .col_item:first-of-type {
+    margin-bottom: 50px;
+  }
+}
+@media screen and (max-width: 500px) {
+  #sec_1 {
+    height: 85vh;
+  }
+  header {
+    padding: 15px 0;
+  }
+  .nav_btn--letter,
+  #sec_6 .s6_txt .bg_element img,
+  #about_page #scense p.defult_txt:before,
+  #careers_page #sec_1 .photosArea img:nth-child(3),
+  #careers_page #sec_1 .photosArea img:nth-child(4),
+  #development_page .topSection .bg_items img:first-child,
+  #development_page .topSection .bg_items img:nth-child(2),
+  #development_page .topSection .bg_items img:nth-child(3),
+  #development_page #sec_3.section4 .bg_items img,
+  #development_page #sec_6.section5 .bg_item img {
+    display: none;
+  }
+  #sec_3 .container,
+  .s4_mobileImgs,
+  #sec_7 .container,
+  #careers_page #sec_1 .container,
+  #design_page #sec_6.section5 .container {
+    max-width: 90%;
+  }
+  .txt_hb {
+    font-size: 40px;
+    line-height: 120%;
+    text-align: left;
+  }
+  #sec_1 .bg_area .bg_items img {
+    bottom: -100px;
+    width: 90px;
+    height: 90px;
+  }
+  .main_title,
+  #sec_4 .text p.main_title,
+  #sec_2 .s2_el2 .small_title,
+  #sec_5 .s5_txt .small_title,
+  #scense p.small_title {
+    font-size: 80px;
+    text-align: left;
+  }
+  .s12_txt img {
+    display: none;
+  }
+  .s12_txt {
+    margin-top: 32px;
+  }
+  #sec_2 .s2_el2 .bg_elements img:nth-child(2) {
+    right: 0;
+    top: 90px;
+    max-width: 80px;
+  }
+  #sec_2 .s2_el2 .bg_elements img:last-child,
+  #sec_5 .s5_txt .bg_element img:first-child,
+  #sec_2 .s2_el2 .bg_elements img:first-child {
+    display: none;
+  }
+  #sec_5 .s5_txt .bg_element img:last-child {
+    display: block;
+    right: 0;
+    max-width: 100px;
+    top: -60px;
+  }
+  #sec_3 .dirigabl {
+    max-width: 120px;
+    height: auto;
+    top: -40px;
+    left: calc(50% - 60px);
+  }
+  #sec_5 .s5_txt .small_title,
+  #sec_7 .main_title {
+    margin-bottom: 40px;
+  }
+  #sec_5 .s5_txt .bg_element img {
+    left: -8%;
+  }
+  #sec_5 .img_area {
+    flex-wrap: wrap;
+    max-width: 100%;
+    justify-content: center;
+  }
+  #sec_5,
+  #sec_6 {
+    padding-bottom: 60px;
+  }
+  #sec_5 .img_area > div {
+    max-width: 33%;
+    margin-bottom: 15px;
+    padding: 0 15px;
+  }
+  #sec_7 a + p,
+  #about_page #sec_7 p.main_title.white_txt + p.white_txt {
+    font-size: 14px;
+  }
+  #sec_7 a {
+    font-size: 36px;
+  }
+  footer,
+  #careers_page #sec_7 {
+    width: 100%;
+  }
+  footer .container {
+    width: 100%;
+    max-width: 300px;
+  }
+  footer .container a {
+    margin: 0 20px;
+  }
+  header .logoArea img {
+    max-width: 90px;
+    width: 100%;
+  }
+  #sec_2 .s2_el1 .bg_elements img {
+    right: 0;
+    max-width: 90px;
+    top: -66px;
+  }
+  #sec_12 .container {
+    max-width: 90%;
+  }
+  .big_defult_txt {
+    font-size: 18px;
+    text-align: left;
+  }
+  #sec_2 .s2_el1 .s2_web_txt,
+  #sec_5 .s5_txt {
+    max-width: 100%;
+  }
+  #sec_2 .s2_el1 .img {
+    margin-left: 0;
+    max-width: 200px;
+  }
+  .s2_web_title,
+  #sec_2 .s2_el3 p.main_title {
+    max-width: 315px;
+  }
+  #sec_12 .container,
+  #sec_2 .s2_el1,
+  #sec_2 .s2_el3,
+  #sec_3 .container,
+  #sec_4 .container,
+  #sec_6 .container {
+    align-items: baseline;
+  }
+  .defult_txt,
+  #about_page .content_1 p.small_title {
+    text-align: left !important;
+  }
+  #sec_2 .s2_el2 .img,
+  #sec_2 .s2_el3 .s2_web_title .img {
+    max-width: 250px;
+    margin-left: 0;
+  }
+  #sec_2 .s2_el2 p,
+  .s3_text,
+  #about_page .second .content_1 {
+    max-width: 100%;
+  }
+  #sec_3 .airship {
+    max-width: 122px;
+    left: calc(50% - 61px);
+  }
+  #sec_3 .container > div.s3_text .bg_elements img {
+    right: -20px;
+  }
+  #sec_3 .container > div.s3_text .bg_elements #lottie:last-child {
+    right: 30%;
+  }
+  #sec_7 .main_title,
+  #ourTeam p.main_title,
+  #design_page #sec_1 p.main_title {
+    text-align: center;
+  }
+  #about_page #sec_1 img {
+    transform: scale(2.6);
+    margin-top: 25px;
+    max-height: 25vw;
+    width: auto;
+  }
+  #about_page #sec_1 {
+    min-height: unset;
+    padding: 0 0 90px;
+  }
+  .sledeItem {
+    width: 650vw;
+  }
+  #ourTeam .teamItem {
+    max-width: 50vw;
+  }
+  #ourTeam .slideArea .teamItem {
+    max-width: 40vw;
+  }
+  #ourTeam .slideArea .slideItem {
+    width: 600vw;
+  }
+  @keyframes slider {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-600vw);
+    }
+  }
+  .teamRow {
+    min-height: 60vw;
+  }
+  #scense p.small_title {
+    margin-bottom: 30px;
+  }
+  #slider img {
+    height: 46vw;
+  }
+  .pp_img {
+    margin-top: 0;
+  }
+  #about_page .second .content_1 .bg_element img:first-child,
+  #about_page .second .content_1 .bg_element img:last-child {
+    display: none;
+  }
+  #about_page .second .content_1 .bg_element img:nth-child(2) {
+    right: 0;
+    width: 95px;
+    top: 10%;
+  }
+  .teamInvite .bg_elements .ch_watter {
+    width: 20vw;
+    right: -20vw;
+    bottom: 30vw;
+  }
+  .teamInvite .bg_elements .ch_watter p {
+    font-size: 20px;
+  }
+  .scrDwn {
+    padding-bottom: 0;
+  }
+  #sec_3 {
+    padding-top: 100px;
+  }
+  #sec_4 {
+    padding: 90px 0;
+  }
+  #about_page #sec_1 p {
+    font-size: 25vw;
+  }
+  .teamInvite .bg_elements > img:first-child {
+    width: auto;
+    height: 60px;
+    bottom: -70px;
+  }
+  .teamInvite .bg_elements > img:last-of-type {
+    width: 70px;
+    top: -70px;
+  }
+  .content3 {
+    padding-top: 35px;
+  }
+  #about_page #sec_7 {
+    padding-top: 90px;
+  }
+  #careers_page #sec_1 .container {
+    align-items: flex-start;
+  }
+  #careers_page #sec_1 .photosArea img {
+    max-width: 48%;
+    height: auto;
+  }
+  #careers_page .second .vac_area.s4_mobileImgs p {
+    text-align: center;
+  }
+  .sweet_p p.txt_hb {
+    margin-bottom: 60px;
+  }
+  .sp_block .sp_item {
+    width: 55%;
+    margin-left: 0;
+  }
+  .sp_block .sp_item:nth-child(2),
+  .sp_block .sp_item:nth-child(4) {
+    margin-left: 45%;
+  }
+  .sp_block {
+    width: 100%;
+    justify-content: unset;
+    max-width: 84vw;
+  }
+  #careers_page .content3 {
+    min-height: 80vh;
+  }
+  #careers_page #sec_7 p.main_title {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 80%;
+    width: 100%;
+    max-width: 100%;
+  }
+  #careers_page #sec_7 p.big_defult_txt {
+    margin-bottom: 15px;
+  }
+  #design_page #sec_1 .pencil {
+    display: none;
+  }
+  #design_page #sec_1 img.bg {
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+  }
+  #design_page #sec_1 .bg_items img:first-child {
+    top: -180px;
+  }
+  #design_page #sec_1 .bg_items img:last-child {
+    right: 40px;
+    bottom: -140px;
+  }
+  #development_page #sec_1 p.main_title {
+    font-size: 30px;
+  }
+  #development_page .topSection .bg_items {
+    position: unset;
+    text-align: center;
+    margin-bottom: 35px;
+  }
+  #development_page .topSection .bg_items svg {
+    position: unset;
+    transform: unset;
+  }
+  #development_page #sec_1.topSection {
+    padding: 250px 0;
+  }
+  #development_page #sec_3.section4 .s3_title img {
+    margin: 40px auto;
+  }
+  #nftExample .container {
+    flex-direction: column;
+  }
+  #about_page #section_wlf p.small_title {
+    display: inline-block;
+  }
+  #about_page #section_wlf p.small_title span {
+    height: auto;
+    width: 40px;
+  }
+  #sec_2 .s2_el1 .main_title,
+  #sec_2 .s2_el3 .s2_web_title .main_title,
+  #development_page #sec_6 .s6_title p,
+  #sec_6 .s6_title,
+  #design_page #sec_6.section5 .s6_title {
+    background-image: unset;
+  }
+}
